@@ -1,0 +1,11 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>برغي - Appcast</title>
+        <item>
+            <title>Version 2.2.1</title>
+            <description>التحقق من الحساب عبر الواتساب وضع الموضوع الداكن والمزيد من التحسينات</description>
+            <pubDate>Thu, 31 Mar 2024 00:00:00 GMT</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.ScrowV2.App" sparkle:version="2.2.1" sparkle:os="android"/>
+        </item>
+    </channel>
+</rss>
